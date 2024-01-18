@@ -11,8 +11,8 @@ let rightPaddleY = canvas.height / 2 - paddleHeight / 2;
 const ballSize = 18;
 let ballX = canvas.width / 2;
 let ballY = canvas.height / 2;
-let ballSpeedX = 3;
-let ballSpeedY = 3;
+let ballSpeedX = 4;
+let ballSpeedY = 4;
 
 // Scores
 let leftScore = 0;
